@@ -1,0 +1,62 @@
+body {
+  /* margin: 10; */
+  padding: 0;
+  font-family: sans-serif;
+}
+.center{
+  margin:10px;
+}
+.list{
+
+  margin-left:-20px;
+  
+  list-style: none;
+  height: 2.8em;
+  font-size: 20px;
+  padding: 10px;
+}
+.delete{
+  float:right;
+  width:90px;
+  height: 2.3em;
+  color:#F44336;
+  border: 1px solid #F44336;
+  background-color: white;
+}
+
+#App-intro {
+  margin-left:350px
+}
+#App-intro input {
+  width:500px;
+  height:1.5em;
+  font-size: 24px;
+}
+
+#App-intro button{
+  width:200px;
+  background-color: #00897B;
+  height: 2.5em;
+  color:white;
+  margin-top:10px;
+  margin-left:35px;
+}
+/* #App-intro #butto {
+  width:200px;
+  background-color: black;
+  height: 2.5em;
+  color:white;
+  margin-top:10px;
+  margin-left:150px;
+
+} */
+.edit{
+  float:right;
+  width:90px;
+  height: 2.3em;
+  margin:0 10px;
+  color: #FBC02D;
+  border: 1px solid #FBC02D;
+  background-color: white;  
+
+}
